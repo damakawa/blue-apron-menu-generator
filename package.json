@@ -1,0 +1,13 @@
+    {
+      "name": "dama-menu-gen",
+      "author": "lanaeBK",
+      "main": "server.js",
+      "dependencies": {
+        "express" : "latest",
+        "mongoose" : "latest",
+        "body-parser" : "latest",
+        "method-override" : "latest"        
+      }
+    }
+
+    //git this
